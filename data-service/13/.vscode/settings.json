@@ -1,0 +1,5 @@
+// VSCode settings.
+{
+    "editor.fontSize": 25,
+    "editor.formatOnSave": false
+}
